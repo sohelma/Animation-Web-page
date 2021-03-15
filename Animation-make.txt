@@ -1,0 +1,26 @@
+plaging download for responsive menu.
+
+google-animate.css "https://animate.style/"
+from this web site below copy link cdn
+" <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />"
+
+past link to head.
+
+then from web site @ right site copy different animation effect and paste to html first class parallaly other basic class "animate__animated" copy to same place earlier.
+
+NOW for different effect start when i scroll in web site.
+google "wowjs.uk"
+click on how to use then copy link "<link rel="stylesheet" href="css/animate.css">" and paste it to head.
+and script copy and paste to body below with edit.
+" <script src="wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>"
+now from url click on github and download file then from 
+wowmaster-css-libs-animate.css file and other file name wow.min.js from wowmaster-dist copy and paste to main folder
+
+now we can change name like animate__heartBeat to wow heartBeat
+
